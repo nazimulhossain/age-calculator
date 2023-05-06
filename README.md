@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nazimulhossain/age-calculator)
-- Live Site URL: [Add live site URL here](https://chic-alpaca-cede2c.netlify.app/)
+- Solution URL: (https://github.com/nazimulhossain/age-calculator)
+- Live Site URL: (https://chic-alpaca-cede2c.netlify.app/)
 
 ## My process
 
