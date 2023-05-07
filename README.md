@@ -67,7 +67,7 @@ Users should be able to:
 
 ### What I learned
 
-how to use css animation.
+how to use css animation and learned about oninput event use in input to restrict input type number to its maxlength(which not works in input type number).
 
 To see how you can add code snippets, see below:
 
@@ -96,6 +96,18 @@ To see how you can add code snippets, see below:
   display: inline-block;
   animation: shake 2s ease;
 }
+```
+
+```html
+<input
+  placeholder="YYYY"
+  class="year"
+  id="year"
+  type="number"
+  oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
+  maxlength="4"
+  required
+/>
 ```
 
 ## Author
